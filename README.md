@@ -3,7 +3,7 @@ readme_content = '''# 🌌 Interactive Particle System
 
 A mesmerizing, fully interactive particle physics simulation built with vanilla HTML5 Canvas and JavaScript. No dependencies, no build step — just open and play.
 
-![Particle System Preview](paricle_system.html)
+
 
 ---
 
